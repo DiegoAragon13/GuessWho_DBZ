@@ -1,4 +1,4 @@
-# bandersnatch
+# Guess Who Game
 
 A new Flutter project.
 
